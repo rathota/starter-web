@@ -6,5 +6,7 @@ This repository is for learning how Git and GitHub work
 
 Sample website with plenty of files for demos
 
+## Deployment
+
 ## Slogan
 KNOW THYSELF!!!
