@@ -7,6 +7,7 @@ This repository is for learning how Git and GitHub work
 Purpose is to learn Git and GitHub fundamentals.
 
 ## Deployment
+Deployment to a higher state
 
 ## Slogan
 KNOW THYSELF!!!
