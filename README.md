@@ -11,3 +11,6 @@ Deployment to a higher state
 
 ## Slogan
 KNOW THYSELF!!! ALWAYS!! NEVER FEAR!!
+
+###Copyright
+2019 copyright
