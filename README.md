@@ -10,4 +10,4 @@ Purpose is to learn Git and GitHub fundamentals.
 Deployment to a higher state
 
 ## Slogan
-KNOW THYSELF!!!
+KNOW THYSELF!!! ALWAYS!! NEVER FEAR!!
